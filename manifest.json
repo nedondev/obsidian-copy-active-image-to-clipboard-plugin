@@ -1,0 +1,9 @@
+{
+  "id": "copy-active-image-to-clipboard",
+  "name": "Copy active image to clipboard",
+  "description": "Copy active-leaf pane image to clipboard",
+  "version": "0.0.2",
+  "author": "nedondev",
+  "authorUrl": "https://github.com/nedondev",
+  "isDesktopOnly": false
+}
